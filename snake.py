@@ -1,8 +1,8 @@
 import turtle
 import random
  
-w = 500
-h = 500
+w = 640
+h = 480
 food_size = 10
 delay = 100
  
