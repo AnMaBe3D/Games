@@ -1,10 +1,10 @@
 import turtle
 import random
  
-w = 640
-h = 480
+w = 1024
+h = 768
 food_size = 10
-delay = 100
+delay = 1000
  
 offsets = {
     "up": (0, 20),
